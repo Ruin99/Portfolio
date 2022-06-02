@@ -1,0 +1,31 @@
+.study-info{
+    margin: 0px 150px;
+    font-size: 20px;
+    width: 50%;
+}
+
+.study-name{
+    font-family: 'Noto Sans KR';
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 0px;
+}
+
+.study-comment{
+    font-family: 'Noto Sans KR';
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.code-pic{
+    margin: 0px 150px;
+    display: flex;
+    position: fixed;
+    z-index: 0;
+}
+
+.study-thumbnail{
+    width: 600px;
+    margin: 0px 0px;
+    border-radius: 20px;
+}
